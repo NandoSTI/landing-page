@@ -30,21 +30,21 @@
 #### Tela Desktop
 
 
-<img src="landing-pages-desktop.gif" alt="Tela desktop exibindo funcionalidades">
+<img src="src/images/landing-pages-desktop.gif" alt="Tela desktop exibindo funcionalidades">
 
 <br>
 
 #### Tela Ipad
 
 
-<img src="landing-pages-ipad.gif" alt="Exibindo responsividade no tablet">
+<img src="src/images/landing-pages-ipad.gif" alt="Exibindo responsividade no tablet">
 
 <br>
 
 #### Tela mobile
 
 
-<img src="landing-pages-mobile.gif" alt="Exibindo responsividade no mobile">
+<img src="src/images/landing-pages-mobile.gif" alt="Exibindo responsividade no mobile">
 
 <br>
 
