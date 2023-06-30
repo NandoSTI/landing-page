@@ -121,7 +121,6 @@ Pretendo continuar focado em construir um conhecimento sólido nessas limguagens
 
 [Fernando Mendes](https://www.linkedin.com/in/fernandomendesti/)
 
-<br>
 
 ## Agradecimentos
 
