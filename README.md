@@ -3,11 +3,9 @@
 
 #### No desenvolvimento dessa landing page usei conceitos avançados de grid e flexbox. O entendimento e domínio dessas ferramentas são importantes para a criação de telas atrativas e responsivas. De modo geral, trabalhar a responsividade com o grid facilita muito a mantutenção do código.
 
-<br>
 
 ## Índice
 
-- [Visão geral](#visão-geral)
 - [Captura de tela](#captura-de-tela)
 - [Links](#links)
 - [Construído com](#construído-com)
@@ -17,8 +15,6 @@
 - [Fernando Mendes](#autor)
 - [Agradecimentos](#agradecimentos)
 
-
-## Visão geral
 
 ## Captura de tela
 
