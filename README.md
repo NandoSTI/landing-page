@@ -30,21 +30,21 @@
 #### Tela Desktop
 
 
-<img src="desktop.gif" alt="Tela desktop exibindo funcionalidades">
+<img src="src/gif/desktop.gif" alt="Tela desktop exibindo funcionalidades">
 
 <br>
 
 #### Tela Ipad
 
 
-<img src="ipad.gif" alt="Exibindo responsividade no tablet">
+<img src="src/gif/ipad.gif" alt="Exibindo responsividade no tablet">
 
 <br>
 
 #### Tela mobile
 
 
-<img src="mobile.gif" alt="Exibindo responsividade no mobile">
+<img src="src/gif/mobile.gif" alt="Exibindo responsividade no mobile">
 
 <br>
 
