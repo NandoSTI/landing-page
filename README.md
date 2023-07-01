@@ -17,13 +17,10 @@
 - [Fernando Mendes](#autor)
 - [Agradecimentos](#agradecimentos)
 
-<br>
 
 ## Visão geral
 
-<br>
-
-### Captura de tela
+## Captura de tela
 
 <br>
 
@@ -32,30 +29,21 @@
 
 <img src="src/gif/desktop.gif" alt="Tela desktop exibindo funcionalidades">
 
-<br>
-
 #### Tela Ipad
 
 
 <img src="src/gif/ipad.gif" alt="Exibindo responsividade no tablet">
-
-<br>
 
 #### Tela mobile
 
 
 <img src="src/gif/mobile.gif" alt="Exibindo responsividade no mobile">
 
-<br>
-
-### Links
-<br>
+## Links
 
 - Site URL: https://landing-page-eta-ten.vercel.app/
 
- <br>
-
-### Construído com
+## Construído com
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -63,18 +51,11 @@
 </div>
 <br>
 
-### O que aprendi
-
-<br>
+## O que aprendi
 
 Nesse projeto aprendi conceitos importantes de grid e flexbox. No CSS, aprendi novos conceitos de animação (como exemplo destaco a seta indicando que tem mais conteúdo na página), estilizar e formatar elementos, e também muito sobre reponsividade. No HTML pude explorar novas possibilidades de estruturação. 
 
-<br>
-
-
 ## Trechos de códigos
-
-<br>
 
 ``` 
 CSS
@@ -98,24 +79,14 @@ CSS
 
 ```
 
-<br>
-
-### Desenvolvimento contínuo
-
-<br>
+## Desenvolvimento contínuo
 
 Pretendo continuar focado em construir um conhecimento sólido nessas limguagens. Ainda há muitos conceitos importantes para serem desenvolvidos. Todos os dias são gradativamente adicionados ao meu repertório de ferramentas.
 
-<br>
-
-### Recursos úteis
-
-<br>
+## Recursos úteis
 
 - [W3School](https://www.w3schools.com/css/default.asp) - Esse site sempre me ajuda a resolver qualquer problema relacionados a códigos de uma maneira fácil e muito rápida.
 - [Dev em Dobro](https://www.youtube.com/@DevemDobro) - Este é um canal onde encontro muito material. Tem muito conteúdo relacionado ao desenvolvimento. Recomendo a todos que querem aprender sobre esse e outros conceitos relacionados.
-
-<br>
 
 ## Autor
 
