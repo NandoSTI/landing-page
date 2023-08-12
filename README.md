@@ -89,9 +89,7 @@ Pretendo continuar focado em construir um conhecimento sólido nessas limguagens
 [Fernando Mendes](https://www.linkedin.com/in/fernandomendesti/)
 
 
-## Agradecimentos
 
-Gostaria de agradecer a toda comunidade do DEVQUEST: monitores, alunos e toda a equipe técnica que sempre está de prontidão para ajudar no que for preciso. Deixo aqui um abraço a todos que fazem parte desse projeto. 
 
 
 
